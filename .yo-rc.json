@@ -1,0 +1,49 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.myco.store",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "4.14.3",
+    "baseName": "store",
+    "packageName": "com.myco.store",
+    "packageFolder": "com/myco/store",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSocialSignIn": false,
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "8f0d318589491d2330f0a949539b55a76958c0e1",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "yarn",
+    "applicationType": "monolith",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ar-ly",
+      "zh-cn",
+      "nl",
+      "et",
+      "fr",
+      "de",
+      "hi",
+      "mr",
+      "ta"
+    ]
+  }
+}
