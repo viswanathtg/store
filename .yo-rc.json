@@ -19,10 +19,10 @@
     "searchEngine": false,
     "messageBroker": false,
     "serviceDiscoveryType": false,
-    "buildTool": "gradle",
+    "buildTool": "maven",
     "enableSocialSignIn": false,
     "enableSwaggerCodegen": false,
-    "jwtSecretKey": "8f0d318589491d2330f0a949539b55a76958c0e1",
+    "jwtSecretKey": "41158f80d92a43123826c0414e575f2c73191644",
     "clientFramework": "angularX",
     "useSass": true,
     "clientPackageManager": "yarn",
@@ -36,14 +36,9 @@
     "languages": [
       "en",
       "ar-ly",
-      "zh-cn",
-      "nl",
-      "et",
       "fr",
       "de",
-      "hi",
-      "mr",
-      "ta"
+      "hi"
     ]
   }
 }
